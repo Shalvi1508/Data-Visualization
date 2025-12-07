@@ -18,20 +18,9 @@ A Power BI dashboard created to analyze business sales performance across catego
 4. Monthly sales trend visualization
 5. Clean data transformation using Power Query
 
-# Tableau Storytelling Dashboard
-A multi-page storytelling dashboard built in Tableau to explore student performance, trainer ratings, attendance, placement status & fee discounts visually.
-
-# Key Features:
-1. Course-wise Student Performance & Attendance
-2. CTC vs Course visualization
-3. Trainer-wise ratings & experience
-4. Placement status comparison
-5. Payment mode & city-wise student distribution map
-6. Interactive navigation, filters & tooltips
 
 # Skills Demonstrated: 
 - Power BI
-- Tableau
 - Data Cleaning
 - Visualization
 - KPI Analysis
