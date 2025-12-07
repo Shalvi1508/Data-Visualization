@@ -11,7 +11,7 @@ This project is a Power BI dashboard built to analyze employee KPIs across depar
 
 # Skills Demonstrated: 
 - Power BI
-- Dta Cleaning
+- Data Cleaning
 - Visualization
 - KPI Analysis
 - Storytelling
