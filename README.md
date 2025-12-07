@@ -9,4 +9,10 @@ This project is a Power BI dashboard built to analyze employee KPIs across depar
 4. Visuals: Bar, line, donut chart, pie chart, funnel, slicers
 5. Insights for HR decision making
 
-# Skills Demonstrated: Power BI, Power Query, Data Cleaning, Visualization, KPI Analysis, Storytelling
+# Skills Demonstrated: 
+- Power BI
+- Dta Cleaning
+- Visualization
+- KPI Analysis
+- Storytelling
+- Power Query
